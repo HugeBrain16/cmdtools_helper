@@ -9,4 +9,5 @@ setup(
     author="HugeBrain16",
     py_modules=["cmdtools_helper"],
     install_requires=["cmdtools-py"],
+    url="https://github.com/hugebrain16/cmdtools_helper",
 )
